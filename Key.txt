@@ -1,0 +1,6 @@
+AIzaSyC-eU7nlrR81UlyP4D2CgWk17n6U95kAmI
+Accessing credentials for arlesnitsuga in project restaurant
+Google Certificate Fingerprint:     5B:3D:38:24:74:4A:D5:D0:69:A2:24:2A:9A:64:15:C7:2E:A2:D9:A6
+Google Certificate Hash (SHA-1):    5B3D3824744AD5D069A2242A9A6415C72EA2D9A6
+Google Certificate Hash (SHA-256):  A5FF6F4B39467AD655971926E93A67BF81D3D269BD4FB3F76D255A06749FB350
+Facebook Key Hash:                  Wz04JHRK1dBpoiQqmmQVxy6i2aY=

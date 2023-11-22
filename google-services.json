@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "391813623538",
+    "project_id": "restaurants-72584",
+    "storage_bucket": "restaurants-72584.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391813623538:android:1001f2a7b94803f319ea6b",
+        "android_client_info": {
+          "package_name": "com.arles.restaurants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391813623538-m9p5m420fne9psgrs4jj29m62oq07p2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arles.restaurants",
+            "certificate_hash": "5b3d3824744ad5d069a2242a9a6415c72ea2d9a6"
+          }
+        },
+        {
+          "client_id": "391813623538-p6luofoe2iqgn37e3p8b0v2mv708chpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa4SVEd6QpdKNQKM_Uh80_oHvBP2JUeww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391813623538-p6luofoe2iqgn37e3p8b0v2mv708chpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
